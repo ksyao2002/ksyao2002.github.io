@@ -4,7 +4,7 @@
     "occupation": "Goldwater Scholar, Davidson Fellow, and TAMU Brown Scholar pursuing Computer Engineering",
     "description": "I am dedicated to researching and developing machine learning and software solutions to global healthcare issues",
     "image": "profilepic.jpg",
-    "bio": "I am programmer, researcher, physicist, and aspiring physician. The type to spend his summer days taking classes and evenings self-learning quantum mechanics and deep learning. To be early-assurance accepted to medical school while majoring in computer engineering. To work in three research labs involving investigating next-generation two-dimensional nanomaterials, developing a mobile application based on Unity, Django, and convolutional neural networks to predict stroke, and developing my own pytorch models for prediction of cancer prognosis. And to be recognized with the Goldwater Scholarship, the most prestigious undergraduate research scholarship, and the Davidson Fellowship, a $10,000 scholarship given to the top 20 researchers in the world under the age of 18. Get ready to redefine your definition of hard-working.",
+    "bio": "I am programmer, researcher, physicist, and aspiring physician. The type to spend his summer days taking classes and evenings self-learning quantum mechanics and deep learning. To be early-assurance accepted to medical school while majoring in computer engineering. To work in three research labs involving investigating next-generation two-dimensional nanomaterials, developing a mobile application to examine strokes, and developing my own deep learning models for prediction of cancer prognosis. And to powerlift, dance, and play guitar. Get ready to redefine your definition of hard-working.",
     "contactmessage": "Please contact me using the below form, or by email or phone if you have any questions.",
     "email": "ksyao2002@gmail.com",
     "phone": "346-307-5241",
@@ -14,64 +14,135 @@
       "state": "TX",
       "zip": "77494"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://ksyao2002.github.io/",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/kevin.yao.9469/",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/kevin-yao-62aa2b174/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/kevin.yao.thephysicist/?hl=en",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/ksyao2002",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here is a list of a couple of my skills",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Texas A&M University",
+        "degree": "B.S. in computer engineering",
+        "graduated": "May 2023",
+        "description": "Brown Scholar, pursued computer science and electrical engineering courses with a focus on machine learning and software development"
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Texas Academy of Math and Science",
+        "degree": "Computer Science",
+        "graduated": "May 2020",
+        "description": "Private boarding school, where I attended computer sciences with other undergraduate students at the University of North Texas"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Baylor College of Medicine",
+        "title": "Senior Undergraduate Researcher",
+        "years": "August 2020 - Present",
+        "description": "I devised, validated, and reported a multiple-gene signature to predict prognosis of breast cancer. I also developed convolutional neural networks for analysis of histopathology images using Pytorch. Lastly, I have utilized statistical and machine learning methods in R such as Random Forest."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Houston Methodist Hospital",
+        "title": "Software Engineer, Researcher",
+        "years": "May 2020 - August 2021",
+        "description": "I produced a mobile application interface using Unity/Swift to optimize patient-doctor interaction, and developed and connected a Django-based backend to frontend for stroke prediction on the cloud. I also developed machine learning models and processing to determine patient risk for stroke on the NIHSS scale"
+      },
+      {
+        "company": "University of North Texas",
+        "title": "Senior Researcher, Lab Manager",
+        "years": "May 2018 - August 2020",
+        "description": "I discovered and led a project on degradation of MoS2 in air and developed novel degradation prevention methods. I also conceived of and orchestrated the characterization the stability of MoS2 bilayers in air. Lastly, I managed lab members, assisted and mentored new students, and led weekly meetings."
+      },
+      {
+        "company": "Scope Research",
+        "title": "Co-founder, Co-president, and Product Manager",
+        "years": "January 2019 - Present",
+        "description": "I organized and led a 20-person executive team to outreach, market, and develop website. I conceived of new programs for underprivileged students to be introduced to research. I also reached out to professors and students through presentations."
+      }
+    ],
+    "publications": [
+      {
+        "company": "Intelligent Augmented Lifelike Avatar App for Virtual Physical Examination of Suspected Strokes.",
+        "title": "Kevin Yao, Kelvin K. Wong, Xiaohui Yu, John Volpi, and Stephen T. C. Wong",
+        "years": "2021",
+        "description": "Accepted to 2021 EMBC as a conference paper."
+      },
+      {
+        "company": "Chr20q amplification defines a distinct molecular subtype of microsatellite stable colorectal cancers.",
+        "title": "Zhang, B., Yao, K., et al. ",
+        "years": "2021",
+        "description": "Published in Cancer Research"
+      },
+      {
+        "company": "Growth of Monolayer MoS2 on Hydrophobic Substrates as a Novel and Feasible Method to Prevent the Ambient Degradation of Monolayer MoS2.",
+        "title": "Yao, K., et al. ",
+        "years": "2020",
+        "description": "Published in MRS Advances"
+      },
+      {
+        "company": "Rapid ambient degradation of monolayer MoS2 after heating in air.",
+        "title": "Yao, K., et al. ",
+        "years": "2020",
+        "description": "Published in 2D Materials"
+      },
+      {
+        "company": "Effects of high-dosage focused electron-beam irradiation at energies≤ 30 keV on graphene on SiO2.",
+        "title": "Femi-Oyetoro, J. D., Yao, K., et al. ",
+        "years": "2019",
+        "description": "Published in Applied Surface Science"
+      },
+      {
+        "company": "Mechanism for etching of exfoliated graphene on substrates by low-energy electron irradiation from helium plasma electron sources.",
+        "title": "Femi-Oyetoro, J. D., Yao, K., et al.",
+        "years": "2019",
+        "description": "Published in Journal of Vacuum Science & Technology A: Vacuum, Surfaces, and Films"
+      }
+    ],
+    "awards": [
+      {
+        "company": "Treehacks",
+        "title": "Treehacks most technically complex grand prize winner",
+        "years": "2021",
+        "description": "Treehacks is one of the largest and most prestigious hackathons in the world, hosted by Stanford."
+      },
+      {
+        "company": "Barry M. Goldwater Foundation",
+        "title": "Barry M. Goldwater Scholarship recipient",
+        "years": "2020",
+        "description": "The Barry M. Goldwater Scholarship is the most prestigious undergraduate research scholarship."
+      },
+      {
+        "company": "Davidson Fellows Scholarship",
+        "title": "Davidson Fellows Scholarship $10,000 recipient",
+        "years": "2020",
+        "description": "Prestigious scholarship awarded to 20 researchers in the US"
+      },
+      {
+        "company": "National Junior Science and Humanities Symposium",
+        "title": "2nd place in physical sciences overall",
+        "years": "2019",
+        "description": "Prestigious national research presentation competition where 250 top researchers from around the nation compete for the top 3 spots."
       }
     ],
     "skills": [
@@ -80,27 +151,27 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Machine learning: Pytorch, Octave, fastai",
+        "level": "75%"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
+        "name": "R",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "C/C++/C#",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
+        "name": "Unity",
         "level": "80%"
       }
     ]
@@ -108,46 +179,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Scope Research",
+        "category": "My nonprofit organization to connect high school students to research opportunities.",
+        "image": "microscopeIcon.png",
+        "url": "https://stevenyao.me/scoperesearch/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "NoFall",
+        "category": "Hackathon project at Treehacks that won the prize for most technically complex grand prize winner. ",
+        "image": "NoFall.png",
+        "url": "https://devpost.com/software/nofall"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "CNNs to diagnose COVID-19 from X-Ray Images of the Chest",
+        "category": "Using machine learning to differentiate between the X-ray images of patients with COVID-19, influenza, and without disease.",
+        "image": "lung.jpeg",
+        "url": "https://devpost.com/software/cnns-to-diagnose-covid-19-from-x-ray-images-of-the-chest?ref_content=user-portfolio&ref_feature=in_progress"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "His research is on the same level as a 2nd or 3rd year graduate student, and would qualify him for a pH.D. in our department",
+        "user": "Dr. Jose Perez, research PI at physics lab in UNT"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I have mentored and supervised 58 MS/PhD/MD-PhD students and 45 senior undergraduates at UC Berkeley, UCSF, Harvard University, and Rice University, many of them are full or chair professors in academia or senior scientists in industry. Kevin is among the top few undergraduates I have worked with. ",
+        "user": "Dr. Stephen Wong, research PI at Houston Methodist"
       }
     ]
   }

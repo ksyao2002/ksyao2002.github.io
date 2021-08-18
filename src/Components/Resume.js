@@ -16,6 +16,18 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
+      var publications = this.props.data.publications.map(function(publications){
+        return <div key={publications.company}><h3>{publications.company}</h3>
+            <p className="info">{publications.title}<span>&bull;</span> <em className="date">{publications.years}</em></p>
+            <p>{publications.description}</p>
+        </div>
+      })
+      var awards = this.props.data.awards.map(function(awards){
+        return <div key={awards.company}><h3>{awards.company}</h3>
+            <p className="info">{awards.title}<span>&bull;</span> <em className="date">{awards.years}</em></p>
+            <p>{awards.description}</p>
+        </div>
+      })
       var skills = this.props.data.skills.map(function(skills){
         var className = 'bar-expand '+skills.name.toLowerCase();
         return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
@@ -51,7 +63,27 @@ class Resume extends Component {
         </div>
     </div>
 
+      <div className="row work">
 
+         <div className="three columns header-col">
+            <h1><span>Publications</span></h1>
+         </div>
+
+         <div className="nine columns main-col">
+          {publications}
+        </div>
+    </div>
+
+    <div className="row work">
+
+         <div className="three columns header-col">
+            <h1><span>Awards</span></h1>
+         </div>
+
+         <div className="nine columns main-col">
+          {awards}
+        </div>
+    </div>
 
       <div className="row skill">
 
