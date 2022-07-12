@@ -57,9 +57,15 @@
     ],
     "work": [
       {
+        "company": "Amazon",
+        "title": "Software Development Engineer Intern",
+        "years": "May 2022 - August 2022",
+        "description": "I designed and defended a new architecture to execute SQL queries in DynanmoDB. I also deployed AWS redshift cluster, scheduled lambda, and other AWS resources with Golang/Java. Lastly, I fronted SQL query support for Docker Containers, which decreased on-call workload by ~6 hrs/month"
+      },
+      {
         "company": "Baylor College of Medicine",
         "title": "Senior Undergraduate Researcher",
-        "years": "August 2020 - Present",
+        "years": "August 2020 - May 2022",
         "description": "I devised, validated, and reported a multiple-gene signature to predict prognosis of breast cancer. I also developed convolutional neural networks for analysis of histopathology images using Pytorch. Lastly, I have utilized statistical and machine learning methods in R such as Random Forest."
       },
       {
@@ -83,10 +89,28 @@
     ],
     "publications": [
       {
+        "company": "A B‐Raf V600E gene signature for melanoma predicts prognosis and reveals sensitivity to targeted therapies",
+        "title": "Kevin Yao, Emily Zhou, Chao Cheng",
+        "years": "2022",
+        "description": "Cancer Medicine 11 (4), 1232-1243"
+      },
+      {
+        "company": "A framework to predict the applicability of Oncotype DX, MammaPrint, and E2F4 gene signatures for improving breast cancer prognostic prediction",
+        "title": "K Yao, CY Tong, C Cheng",
+        "years": "2022",
+        "description": "Scientific reports 12 (1), 1-11"
+      },
+      {
+        "company": "Tumor cell intrinsic and extrinsic features predict prognosis in estrogen receptor positive breast cancer",
+        "title": "K Yao, E Schaafsma, B Zhang, C Cheng",
+        "years": "2022",
+        "description": "PLoS computational biology 18 (3), e1009495"
+      },
+      {
         "company": "Intelligent Augmented Lifelike Avatar App for Virtual Physical Examination of Suspected Strokes.",
         "title": "Kevin Yao, Kelvin K. Wong, Xiaohui Yu, John Volpi, and Stephen T. C. Wong",
         "years": "2021",
-        "description": "Accepted to 2021 EMBC as a conference paper."
+        "description": "Published in 2021 EMBC."
       },
       {
         "company": "Chr20q amplification defines a distinct molecular subtype of microsatellite stable colorectal cancers.",
@@ -126,6 +150,12 @@
       }
     ],
     "awards": [
+      {
+        "company": "Astronaut Scholarship Foundation",
+        "title": "Astronaut Scholar",
+        "years": "2022",
+        "description": "Astronaut Scholars are among the best and brightest minds in STEM"
+      },
       {
         "company": "Treehacks",
         "title": "Treehacks most technically complex grand prize winner",
